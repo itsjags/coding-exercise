@@ -1,0 +1,11 @@
+**/.idea/**
+**/target/
+**/logs/
+**/*~
+*.pyc
+.classpath
+.project
+.settings/
+*.iml
+target/
+.idea/
